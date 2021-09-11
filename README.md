@@ -4,4 +4,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Taca-Acha&show_icons=true)
 
-<img src="https://img.shields.io/badge/NodeJS-#339933?style=flat-square&logo=NodeJS&logoColor=white"/></a>&nbsp
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+</p>
