@@ -1,7 +1,5 @@
 <p align="center">
   평범한 사람 :)
-
-<p align="center"`JavaScript / Node.js`</p>
 </p>
 
 
