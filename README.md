@@ -4,4 +4,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Taca-Acha&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taca-Acha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Node-#339933?style=flat-square&logo=Node&logoColor=white"/></a>&nbsp
