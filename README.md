@@ -1,6 +1,8 @@
-평범한 사람 :)
+<p align="center">
+  평범한 사람 :)
 
-`JavaScript / Node.js`
+  `JavaScript / Node.js`
+</p>
 
 
 
