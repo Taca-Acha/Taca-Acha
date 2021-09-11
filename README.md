@@ -10,5 +10,5 @@
   <a href="https://discord.gg/6Ukj9NVwZz"><img src="https://img.shields.io/badge/T.aca Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/6Ukj9NVwZz"/></a>
 </p>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taca-Acha&langs_count=10&layout=compact&theme=dark)](https://github.com/Taca-Acha/Taca-Acha)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taca-Acha&langs_count=10&layout=compact&theme=dark)](https://github.com/Taca-Acha)
 
