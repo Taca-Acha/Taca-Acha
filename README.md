@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  The languages that I use.
+  Languages
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
