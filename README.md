@@ -21,13 +21,13 @@
   DB
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
 <h3 align="center">
   Editer
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 </p>
 <h3 align="center">
   Github
